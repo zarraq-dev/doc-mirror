@@ -20,3 +20,8 @@ output/
 
 # Per-machine PowerShell history or local config
 *.log
+
+# User-specific sites configuration consumed by batch-mirror.ps1. The shipped
+# sites.example.psd1 documents the format; users copy it to sites.psd1 and
+# fill in their own URLs. sites.psd1 itself must never be committed.
+sites.psd1
