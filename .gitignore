@@ -1,0 +1,22 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# VSCode workspace state (user-specific)
+.vscode/
+*.code-workspace
+
+# JetBrains / Rider
+.idea/
+
+# Test / dev output (in case the script is run with output landing inside this folder)
+test-output/
+output/
+.cache/
+
+# Per-machine PowerShell history or local config
+*.log
