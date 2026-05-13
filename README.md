@@ -273,7 +273,7 @@ The PowerShell in this repository follows the conventions below. They are releva
 
 ## Licence
 
-A licence has not yet been declared. Until a `LICENCE` file is added, the code in this repository is presumed all rights reserved by default. Use of this code requires either an issue to be opened or a fork to be created with a proposed licence.
+`doc-mirror` is released under the MIT Licence. See `LICENSE` in the repository root for the full text.
 
 The wrapped dependencies carry their own licences:
 
